@@ -1,8 +1,8 @@
 {
   "collection": "images",
   "content": {
-    0: "rules.png",
-    1: "tickets.png",
-    2: "about-us.png"
+    "0": "rules.png",
+    "1": "tickets.png",
+    "2": "about-us.png"
   }
 }
